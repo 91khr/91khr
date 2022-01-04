@@ -1,16 +1,13 @@
-### Hi there 👋
+# About Me
 
-<!--
-**91khr/91khr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senioria sum. Preferred pronoun is Senioria, for all three singular pronouns please &gt;\_&lt;,
+which *can* be declensed with [Latin first declension](https://en.wiktionary.org/wiki/Appendix:Latin_first_declension).
 
-Here are some ideas to get you started:
+Senioriae full name is Virginia Senioria Virginiae Liberta Sina Stella Priosca.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Transgirl (don't like the term transwoman since it seems to be too old x_x)
+- C / C++ / Vim Script
+- Learning Rust / Racket
+- Arch Linux / Firefox / AwesomeWM / Vim / XTerm
+- Minecraft (ID: Senioria)
+
