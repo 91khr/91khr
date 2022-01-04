@@ -1,4 +1,4 @@
-# About Me
+# About Senioriam
 
 Senioria sum. Preferred pronoun is Senioria, for all three singular pronouns please &gt;\_&lt;,
 which *can* be declensed with [Latin first declension](https://en.wiktionary.org/wiki/Appendix:Latin_first_declension).
