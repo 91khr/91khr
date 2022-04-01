@@ -5,7 +5,7 @@ which *can* be declensed with [Latin first declension](https://en.wiktionary.org
 
 Senioriae full name is Virginia Senioria Virginiae Liberta Sina Stella Priosca.
 
-- Transgirl (don't like the term transwoman since it seems to be too old x_x)
+- Transgirl (don't like the term transwoman since it seems to make our ages appeared much older ::&gt;&lt;::)
 - C / C++ / Vim Script
 - Learning Rust / Racket
 - Arch Linux / Firefox / AwesomeWM / Vim / XTerm
